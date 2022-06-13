@@ -1,0 +1,17 @@
+D:\RJ Code Advance\Source Code C#\2022\WPF-LoginForm\WPF-LoginForm\bin\Debug\WPF-LoginForm.exe.config
+D:\RJ Code Advance\Source Code C#\2022\WPF-LoginForm\WPF-LoginForm\bin\Debug\WPF-LoginForm.exe
+D:\RJ Code Advance\Source Code C#\2022\WPF-LoginForm\WPF-LoginForm\bin\Debug\WPF-LoginForm.pdb
+D:\RJ Code Advance\Source Code C#\2022\WPF-LoginForm\WPF-LoginForm\obj\Debug\WPF-LoginForm.csproj.AssemblyReference.cache
+D:\RJ Code Advance\Source Code C#\2022\WPF-LoginForm\WPF-LoginForm\obj\Debug\MainWindow.g.cs
+D:\RJ Code Advance\Source Code C#\2022\WPF-LoginForm\WPF-LoginForm\obj\Debug\App.g.cs
+D:\RJ Code Advance\Source Code C#\2022\WPF-LoginForm\WPF-LoginForm\obj\Debug\WPF-LoginForm_MarkupCompile.cache
+D:\RJ Code Advance\Source Code C#\2022\WPF-LoginForm\WPF-LoginForm\obj\Debug\WPF-LoginForm_MarkupCompile.lref
+D:\RJ Code Advance\Source Code C#\2022\WPF-LoginForm\WPF-LoginForm\obj\Debug\MainWindow.baml
+D:\RJ Code Advance\Source Code C#\2022\WPF-LoginForm\WPF-LoginForm\obj\Debug\WPF-LoginForm.g.resources
+D:\RJ Code Advance\Source Code C#\2022\WPF-LoginForm\WPF-LoginForm\obj\Debug\WPF_LoginForm.Properties.Resources.resources
+D:\RJ Code Advance\Source Code C#\2022\WPF-LoginForm\WPF-LoginForm\obj\Debug\WPF-LoginForm.csproj.GenerateResource.cache
+D:\RJ Code Advance\Source Code C#\2022\WPF-LoginForm\WPF-LoginForm\obj\Debug\WPF-LoginForm.csproj.CoreCompileInputs.cache
+D:\RJ Code Advance\Source Code C#\2022\WPF-LoginForm\WPF-LoginForm\obj\Debug\WPF-LoginForm.exe
+D:\RJ Code Advance\Source Code C#\2022\WPF-LoginForm\WPF-LoginForm\obj\Debug\WPF-LoginForm.pdb
+D:\RJ Code Advance\Source Code C#\2022\WPF-LoginForm\WPF-LoginForm\obj\Debug\View\LoginView.g.cs
+D:\RJ Code Advance\Source Code C#\2022\WPF-LoginForm\WPF-LoginForm\obj\Debug\View\LoginView.baml
